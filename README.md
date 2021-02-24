@@ -32,7 +32,7 @@
 
 1. Run the command `npm test` to test the server
 
-### Running the Server
+### Running the Server 
 
 1. To run the server locally, run `nodemon`
 
